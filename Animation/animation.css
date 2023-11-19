@@ -1,0 +1,83 @@
+.ani1{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    position: absolute;
+    animation-name:shakeel1;
+    animation-duration: 4s;
+    animation-delay: 2s;
+    border-radius: 100%;
+    animation-iteration-count:infinite;
+}
+
+@keyframes shakeel1 {
+
+    0%{left: 0px; top: 0px;}
+    25%{background-color: red; border-radius: 100%; left: 500px; top: 0px;}
+    50%{background-color: blue; border-radius: 100%; left: 500px; top: 500px;}
+    75%{background-color: black; border-radius: 100%; left: 0px; top: 500px;}
+    100%{background-color: gold; border-radius: 100%; left: 0px; top: 0px;}
+}
+
+
+
+
+
+
+.ani2{
+    width: 300px;
+    height: 300px;
+    border: 1px solid black;
+    position: absolute;
+    animation-name:shakeel2;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-delay: 1s;
+    border-radius: 100%;
+margin-left:500px;
+}
+
+@keyframes shakeel2{
+0%{left: 0px; top: 0px;}    
+25%{background-color: aqua; left: 0px; top: 500px;}
+50%{background-color: red; border-radius: 100%; left:-500px; top: 500px;}
+75%{background-color: red; border-radius: 100%; left:-500px; top: 0px;}
+100%{background-color: red; border-radius: 100%; left:0px; top: 0px;}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

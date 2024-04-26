@@ -1,0 +1,15 @@
+@media only screen and (max-width: 991px) {
+    #navbarSupportedContent>ul{
+    text-align: center;
+    }
+    
+
+    form{
+        display: flex;
+justify-content: center;
+    }
+
+.last-nev{      
+}
+
+}

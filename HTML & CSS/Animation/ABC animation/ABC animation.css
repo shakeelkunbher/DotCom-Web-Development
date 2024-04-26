@@ -1,0 +1,246 @@
+
+
+
+
+.s{
+    position: absolute;
+font-size: 70px;
+margin-left: 45px;
+margin-top: 160px;
+animation-name:s;
+animation-duration: 4s;
+animation-iteration-count: infinite;
+animation-delay: 1s;
+border-radius: 100%;
+animation-direction: alternate;
+}
+
+
+@keyframes s{
+0%{
+left: 0px; top: 0px;
+}
+
+100%{
+    left: 0px; top: 300px;
+}
+}
+
+
+
+
+
+.h{
+position: absolute;
+font-size: 70px;
+margin-left: 90px;
+margin-top: 450px;
+animation-name:h;
+animation-duration: 4s;
+animation-iteration-count: infinite;
+animation-delay: 1s;
+border-radius: 100%;
+
+animation-direction: alternate;
+}
+
+
+@keyframes h{
+0%{
+left: 0px; top: 0px;
+}
+
+
+100%{
+    left: 0px; top: -300px;
+}
+}
+
+
+
+/* .a{
+    position: absolute;
+font-size: 70px;
+margin-left: 135px;
+margin-top: 160px;
+animation-name:a;
+animation-duration: 4s;
+animation-iteration-count: infinite;
+animation-delay: 1s;
+border-radius: 100%;
+}
+
+
+@keyframes a{
+0%{
+left: 0px; top: 0px;
+}
+
+25%{
+left: 0px; top: 150px;
+}
+
+50%{
+left: 0px; top:0px;
+}
+
+75%{
+top: -150px; left: 0px;
+}
+
+100%{
+    left: 0px; top: 0px;
+}
+}
+
+
+
+
+.k{
+    position: absolute;
+font-size: 70px;
+margin-left: 185px;
+margin-top: 160px;
+animation-name:k;
+animation-duration: 4s;
+animation-iteration-count: infinite;
+animation-delay: 1s;
+border-radius: 100%;
+}
+
+
+@keyframes k{
+0%{
+left: 0px; top: 0px;
+}
+
+25%{
+left: 0px; top: -150px;
+}
+
+50%{
+left: 0px; top:0px;
+}
+
+75%{
+top: 150px; left: 0px;
+}
+
+100%{
+    left: 0px; top: 0px;
+}
+}
+
+
+
+.e{
+    position: absolute;
+font-size: 70px;
+margin-left: 235px;
+margin-top: 160px;
+animation-name:e;
+animation-duration: 4s;
+animation-iteration-count: infinite;
+animation-delay: 1s;
+border-radius: 100%;
+}
+
+
+@keyframes e{
+0%{
+left: 0px; top: 0px;
+}
+
+25%{
+left: 0px; top: 150px;
+}
+
+50%{
+left: 0px; top:0px;
+}
+
+75%{
+top: -150px; left: 0px;
+}
+
+100%{
+    left: 0px; top: 0px;
+}
+}
+
+
+
+
+
+.e2{
+    position: absolute;
+font-size: 70px;
+margin-left: 285px;
+margin-top: 160px;
+animation-name:e2;
+animation-duration: 4s;
+animation-iteration-count: infinite;
+animation-delay: 1s;
+border-radius: 100%;
+}
+
+
+@keyframes e2{
+0%{
+left: 0px; top: 0px;
+}
+
+25%{
+left: 0px; top: -150px;
+}
+
+50%{
+left: 0px; top:0px;
+}
+
+75%{
+top: 150px; left: 0px;
+}
+
+100%{
+    left: 0px; top: 0px;
+}
+}
+
+
+
+
+.l{
+    position: absolute;
+font-size: 70px;
+margin-left: 335px;
+margin-top: 160px;
+animation-name:l;
+animation-duration: 4s;
+animation-iteration-count: infinite;
+animation-delay: 1s;
+border-radius: 100%;
+}
+
+
+@keyframes l{
+0%{
+left: 0px; top: 0px;
+}
+
+25%{
+left: 0px; top: 150px;
+}
+
+50%{
+left: 0px; top:0px;
+}
+
+75%{
+top: -150px; left: 0px;
+}
+
+100%{
+    left: 0px; top: 0px;
+}
+} */

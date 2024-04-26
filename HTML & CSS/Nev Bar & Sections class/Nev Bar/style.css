@@ -1,0 +1,152 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.nav {
+  background-color: rgb(92 226 231);
+  width: 100%;
+  height: 100px;
+  position: absolute;
+}
+.logo {
+  color: white;
+  margin-left: 15px;
+  margin-top: 5px;
+}
+.text {
+  position: absolute;
+  padding-top: 23px;
+  font-family: sans-serif;
+}
+
+.items {
+  margin-top: 29px;
+  margin-right: 20px;
+  float: right;
+}
+
+.items ul {
+  display: flex;
+  list-style: none;
+  font-family:'Poppins', sans-serif;;
+}
+
+.items ul li a {
+  text-decoration: none;
+  font-size: 20px;
+  padding: 10px;
+  color: white;
+}
+
+.items ul li a:hover {
+  background-color: rgb(86, 162, 170);
+  color: rgb(255, 255, 255);
+  border-radius: 5px;
+}
+.home {
+  background-image: url(photo-1536585806558-81c7ea4d393d.avif);
+  width: 100%;
+  height: 90vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.text1 {
+  position: absolute;
+  margin-top: 200px;
+}
+
+.wel {
+  color: white;
+  font-size: 50px;
+  font-family: sans-serif;
+  font-weight: bolder;
+  margin-left: 400px;
+}
+
+.owel {
+  color: white;
+  font-size: 20px;
+  margin-left: 400px;
+}
+
+.btn1 {
+  width: 100px;
+  height: 40px;
+  background-color: rgb(92 226 231);
+  color: black;
+  margin-left: 600px;
+  cursor: pointer;
+  font-size: 15px;
+  font-weight: bolder;
+  border-radius: 5px;
+}
+
+.about {
+  background-color: black;
+  width: 100%;
+  height: 102vh;
+}
+
+.sk {
+  width: 600px;
+  height: 600px;
+  margin-top: 30px;
+  margin-left: 10px;
+}
+
+.a1 {
+  color: rgb(83 184 154);
+  font-family: 'Poppins';
+  margin-left: 153px;
+  font-weight: 550;
+}
+
+.a2 {
+  color: white;
+  font-family: sans-serif;
+  font-size: 60px;
+  margin-left: 150px;
+  margin-top: 150px;
+}
+
+.a3 {
+  color: rgb(83 184 154);
+  font-family:sans-serif ;
+  font-size: 60px;
+  margin-left: 150px;
+  margin-top: 150px;
+}
+
+.text2 {
+  position: absolute;
+  margin-left: 460px;
+  margin-top: 65px;
+}
+
+.h {
+  width: 400px;
+  border-color: #928e8e;
+  border-width: 1px;
+}
+
+.p {
+  color: white;
+  margin-left: 153px;
+  font-family: sans-serif;
+}
+
+.btn2 {
+  background-color: transparent;
+  color: rgb(83 184 154);
+  border-color: rgb(83 184 154);
+  border-radius: 5px;
+  margin-left: 153px;
+  width: 150px;
+  margin-top: 50px;
+  height: 40px;
+  font-size: large;
+  cursor: pointer;
+  border: 1px solid;
+}
